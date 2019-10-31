@@ -6,3 +6,6 @@ notebook/.ipynb_checkpoints/*
 out*
 test-results*
 .run/
+src/build/
+src/dist/
+src/secimtools.egg-info/
